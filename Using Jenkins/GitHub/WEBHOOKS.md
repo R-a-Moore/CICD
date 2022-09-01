@@ -14,4 +14,4 @@ get your jenkins site url
 
 input, including `github-webhooks`
 
-`http://18.133.180.208:8080/github-webhooks`
+`http://18.133.180.208:8080/github-webhook/`

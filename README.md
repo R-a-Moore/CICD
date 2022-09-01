@@ -1,5 +1,7 @@
 # CI / CD
 
+[DevOps Pipeline, by Shahrukh khan](https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450)
+
 ![devops pipeline](https://user-images.githubusercontent.com/47668244/187894488-cb42b7f7-a7aa-40ca-930c-a0d0717d1e66.png)
 
 DevOps (Development Operations), focuses around continuous incremental contribution to production, in an automated manner. Arguably the core tennants of DevOps is Continuous Integration & Continuous Deployment.
