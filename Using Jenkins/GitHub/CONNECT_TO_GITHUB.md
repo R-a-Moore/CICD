@@ -24,7 +24,7 @@ give name, description
 
 github project: give it the HTTP url
 
-## source code
+## source code management
 
  give it the git SSH url
 
@@ -38,6 +38,8 @@ enter directly --> add --> cat and copy over your public key into the field
 
 in the credentials field, select your key that you've just added
 
+should be the appropriate branch `main` in this case
+
 ## build triggers
 
 tick 'GitHub hook trigger for GITScm polling'
@@ -45,8 +47,6 @@ tick 'GitHub hook trigger for GITScm polling'
 ### Build environment
 
 select 'Provide Node & npm bin/ folder to PATH'
-
-should be the appropriate branch `main` in this case
 
 ### Build
 
