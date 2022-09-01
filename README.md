@@ -1,8 +1,12 @@
 # CI / CD
 
+![devops pipeline](https://user-images.githubusercontent.com/47668244/187894488-cb42b7f7-a7aa-40ca-930c-a0d0717d1e66.png)
+
 DevOps (Development Operations), focuses around continuous incremental contribution to production, in an automated manner. Arguably the core tennants of DevOps is Continuous Integration & Continuous Deployment.
 
 ### Webhooks
+
+[webhooks wiki](https://en.wikipedia.org/wiki/Webhook)
 
 webhook automates the interaction between the developer and the next block/inidividual in line
 
@@ -14,7 +18,11 @@ A webhook, is an integration which sits and listens and automates that step in t
 
 "Building a CI/CD pipeline is not a quick job, it takes time. But it is the backbone of DevOps" - Shahrukh Khan
 
+![CI_CD pipeline](https://user-images.githubusercontent.com/47668244/187893901-32efbb00-93a9-4272-a1a9-46c38e0e7626.png)
+
 ### CICD Workflow
+
+![CI_CD pipeline(1)](https://user-images.githubusercontent.com/47668244/187893933-4c97c785-b7d1-4745-ad96-7508ff525684.png)
 
 source>build>test>production
 
