@@ -33,7 +33,7 @@ enter `git checkout -b dev` into the git bash, when situated into the appropriat
 
 then add, commit and push those changes to the repo
 
-### Create A New Job to Merge
+### Create A New Job to Push
 
 (Create a new job like normal)
 
@@ -53,12 +53,19 @@ Give it an appropriate description.
 
 ### Add a Webhook
 
-maiks is daddy
-
 Add a webhook into your github repository
 `http://18.133.180.208:8080/job/christian-ci-merge/`
 
-### Git Publisher
+### Build a New Job to Merge
+
+Follow the previous steps as before, however make the following changes... 
+
+Source code management > Additional Behaviours > add
+
+- name: origin
+- branch to merge to: main
+
+#### Git Publisher
 
 Scroll to bottom
 
@@ -67,5 +74,7 @@ Add post-build action > Git Publisher
 Tick 'Push Only If Build Succeeds'
 
 Tick 'Merge Results'
+
+Tick 'force push'
 
 
