@@ -1,4 +1,6 @@
-# Merge Task
+# Jenkins Git Merge
+
+[Jenkins, Git merge](https://andrewtarry.com/posts/jenkins_git_merges/)
 
 ### The Task
 - create a dev branch on your github repo

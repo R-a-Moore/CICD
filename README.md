@@ -20,6 +20,10 @@ A webhook, is an integration which sits and listens and automates that step in t
 
 "Building a CI/CD pipeline is not a quick job, it takes time. But it is the backbone of DevOps" - Shahrukh Khan
 
+[about , cicd pipeline](https://about.gitlab.com/topics/ci-cd/)
+
+[gitlad docs cicd pipeline](https://docs.gitlab.com/ee/ci/introduction/)
+
 ![CI_CD pipeline](https://user-images.githubusercontent.com/47668244/187893901-32efbb00-93a9-4272-a1a9-46c38e0e7626.png)
 
 ### CICD Workflow
