@@ -26,12 +26,6 @@ A webhook, is an integration which sits and listens and automates that step in t
 
 ![CI_CD pipeline](https://user-images.githubusercontent.com/47668244/187893901-32efbb00-93a9-4272-a1a9-46c38e0e7626.png)
 
-### CICD Workflow
-
-![CI_CD pipeline(1)](https://user-images.githubusercontent.com/47668244/187893933-4c97c785-b7d1-4745-ad96-7508ff525684.png)
-
-source>build>test>production
-
 ## Continuous Integration
 
 Continuous integration is both part of continuous delivery and continuous deployment.
@@ -53,3 +47,9 @@ The main difference between the two, is that; when continuous delivery is perfor
 Jenkins is an automation server, which helps automate the parts of software development related to building, testing and deploying; facilitating continuous integration and continuous delivery.
 
 As Jenkins is open source, it has a number of benefits over other substitutes; it's free to use, supports a vast array of plugins, it is available to anyone, and is known to be user friendly.
+
+### CICD pipeline With Jenkins
+
+![CI_CD pipeline - with Jenkins](https://user-images.githubusercontent.com/47668244/188125984-62eb65c9-fc0c-4220-97ac-aaea00464c4c.png)
+
+source>build>test>production
