@@ -12,6 +12,3 @@ cd seeds
 
 # uses seeds with db_host
 node seed.js
-
-# starts the app
-#npm start&
