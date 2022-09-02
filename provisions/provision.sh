@@ -26,5 +26,5 @@ sudo apt-get upgrade -y
 cd
 cd app
 
- #installs npm
-sudo npm install
+#installs npm
+npm install express
