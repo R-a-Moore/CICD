@@ -48,6 +48,8 @@ The main difference between the two, is that; when continuous delivery is perfor
 
 ## Jenkins
 
+![jenkins logo](https://user-images.githubusercontent.com/47668244/188125848-3bcdc81e-d81a-4644-93e8-5947e2f91cc4.png)
+
 Jenkins is an automation server, which helps automate the parts of software development related to building, testing and deploying; facilitating continuous integration and continuous delivery.
 
 As Jenkins is open source, it has a number of benefits over other substitutes; it's free to use, supports a vast array of plugins, it is available to anyone, and is known to be user friendly.
