@@ -51,7 +51,3 @@ The main difference between the two, is that; when continuous delivery is perfor
 Jenkins is an automation server, which helps automate the parts of software development related to building, testing and deploying; facilitating continuous integration and continuous delivery.
 
 As Jenkins is open source, it has a number of benefits over other substitutes; it's free to use, supports a vast array of plugins, it is available to anyone, and is known to be user friendly.
-
-
-
-### SSH-keys From Jenkins to AWS
