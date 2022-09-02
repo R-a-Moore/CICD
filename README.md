@@ -53,3 +53,10 @@ As Jenkins is open source, it has a number of benefits over other substitutes; i
 ![CI_CD pipeline - with Jenkins](https://user-images.githubusercontent.com/47668244/188125984-62eb65c9-fc0c-4220-97ac-aaea00464c4c.png)
 
 source>build>test>production
+
+To follow this pipeline in action please follow the steps of:
+
+- [Connecting to GitHub](https://github.com/R-a-Moore/CICD/blob/dev/Using%20Jenkins/GitHub/CONNECT_TO_GITHUB.md)
+- [Webhooks on GitHub](https://github.com/R-a-Moore/CICD/blob/dev/Using%20Jenkins/GitHub/WEBHOOKS.md)
+- [Merging Branches with Jenkins](https://github.com/R-a-Moore/CICD/blob/dev/Using%20Jenkins/GitHub/JENKINS_GIT_MERGE.md)
+- [Deploying to AWS](https://github.com/R-a-Moore/CICD/blob/dev/Using%20Jenkins/DEPLOYING_TO_AWS.md)
