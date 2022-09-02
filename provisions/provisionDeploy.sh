@@ -14,4 +14,4 @@ cd seeds
 node seed.js
 
 # starts the app
-npm start&
+#npm start&
