@@ -54,6 +54,8 @@ As Jenkins is open source, it has a number of benefits over other substitutes; i
 
 source>build>test>production
 
+In production, the individual nodes (which you can see within the Jenkins stack of jobs), each job or node is often referred to as Master and Agent nodes, due to the latters' dependance on the former's activision (think slave/master nodes of code).
+
 To follow this pipeline in action please follow the steps of:
 
 - [Connecting to GitHub](https://github.com/R-a-Moore/CICD/blob/dev/Using%20Jenkins/GitHub/CONNECT_TO_GITHUB.md)
